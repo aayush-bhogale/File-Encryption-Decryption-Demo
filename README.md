@@ -79,3 +79,7 @@ KhulJaaSimSim
 ## License
 
 This project is provided for educational and learning purposes.
+<img width="1920" height="1020" alt="Screenshot 2026-06-16 132325" src="https://github.com/user-attachments/assets/64155af7-1074-4e79-8397-14a93652c72c" />
+<img width="1920" height="1020" alt="Screenshot 2026-06-16 132336" src="https://github.com/user-attachments/assets/f6bcd2e1-503f-4a93-9817-1368486b8e2e" />
+
+
